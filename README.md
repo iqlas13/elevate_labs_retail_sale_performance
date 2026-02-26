@@ -1,1 +1,3 @@
 # elevate_labs_retail_sale_performance
+
+1. Retail Business Performance & Profitability Analysis Objective: Analyze transactional retail data to uncover profit-draining categories, optimize inventory turnover, and identify seasonal product behavior. Tools: SQL, Python (Pandas, Seaborn), Tableau Mini Guide: Import data into SQL and clean missing/null records Use SQL to calculate profit margins by category and sub-category Use Python (Pandas) to run correlation between inventory days and profitability Build Tableau dashboard with filters for region, product type, and season Derive strategic suggestions for slow-moving and overstocked items Deliverables: Tableau Dashboard SQL queries (.sql file) PDF Report with key insights
